@@ -39,5 +39,5 @@ Atuo no desenho de arquiteturas de dados, automação de pipelines (ETL/Ingestã
 
 ## 📫 Vamos nos conectar?
 
-*   **LinkedIn:** [linkedin.com/in/ithayscambi](https://www.linkedin.com/in/ithayscambi) *(Ajuste o link se necessário)*
+*   **LinkedIn:** [linkedin.com/in/ithayscambi](https://www.linkedin.com/in/ithayscambi) 
   
